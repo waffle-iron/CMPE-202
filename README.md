@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/DivyaaThellore/CMPE-202.png?label=ready&title=Ready)](https://waffle.io/DivyaaThellore/CMPE-202)
+[![Stories in Ready](https://badge.waffle.io/DivyaaThellore/CMPE-202.png?label=ready&title=Ready)](https://waffle.io/DivyaaThellore/CMPE-202)
 [![Stories in Ready](https://badge.waffle.io/pandyabhavan/CMPE-202.png?label=ready&title=Ready)](https://waffle.io/pandyabhavan/CMPE-202)
 [![Stories in Ready](https://badge.waffle.io/pandyabhavan/CMPE-202.png?label=ready&title=Ready)](https://waffle.io/pandyabhavan/CMPE-202)
 CMPE202
